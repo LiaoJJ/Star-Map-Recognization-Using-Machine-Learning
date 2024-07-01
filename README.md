@@ -19,9 +19,6 @@ In addition, the project also provides a convenient API interface that allows de
 - [Stellarium](https://stellarium.org/) 
 - [HYG Database](https://www.astronexus.com/hyg) 
 
-### Tech Stack
-
-- 
  
 ## Application scenario 
 - Astrophotography post processing: For amateur astronomers, Astrometry.net can quickly and accurately calibrate their astronomical photos, facilitating subsequent color correction, stacking and other operations. 
