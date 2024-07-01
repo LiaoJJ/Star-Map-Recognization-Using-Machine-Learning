@@ -1,4 +1,4 @@
-# Star-Map-Recognization-Using-Machine-Learning
+# Star Map Recognization by Machine Learning
 
 Exploring the mysteries of the Universe - automatic star map recognition project using Machine Learning 
 
