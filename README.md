@@ -11,12 +11,17 @@ When an astronomical image is uploaded, the system preprocesses it and then look
  
 In addition, the project also provides a convenient API interface that allows developers to integrate into their own applications or services, achieving the ability to automate the processing of large amounts of astronomical images. 
 
-### CNN we use
-- VGG-19
+### Tech Stack
+- [VGG-16](https://arxiv.org/abs/1409.1556)
+- [PyTorch](https://pytorch.org/)
 
 ### Datasets
 - [Stellarium](https://stellarium.org/) 
 - [HYG Database](https://www.astronexus.com/hyg) 
+
+### Tech Stack
+
+- 
  
 ## Application scenario 
 - Astrophotography post processing: For amateur astronomers, Astrometry.net can quickly and accurately calibrate their astronomical photos, facilitating subsequent color correction, stacking and other operations. 
