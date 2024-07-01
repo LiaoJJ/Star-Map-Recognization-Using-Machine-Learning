@@ -1,13 +1,16 @@
 # Star Map Recognization by Machine Learning
 
-Exploring the mysteries of the Universe - automatic star map recognition project using Machine Learning 
+Exploring the mysteries of the Universe - automatic star map recognition project by Machine Learning 
 
-It uses advanced Computer Vision and Machine Learning techniques to help astronomers and scientists automatically identify and locate stars, galaxies and other celestial bodies in the sky. By providing accurate coordinate information, names, the project makes the complex work of astronomical image annotation easy and efficient. 
+It uses advanced Machine Learning and Computer Vision techniques to help astronomers and scientists automatically identify and locate stars, galaxies and other celestial bodies in the sky. By providing accurate coordinate information, names, the project makes the complex work of astronomical image annotation easy and efficient. 
+
+When an astronomical image is uploaded, the system preprocesses it and then looks for features of known constellations and objects, which are then compared with the built-in star map database to determine the orientation and scale of the image. Finally, it generates a metadata file containing information about the position, brightness, and so on of each object in the image. 
+
+Status: in progress
+
  
 ## Technical analysis 
 The heart of this project lies in its algorithms, which are primarily based on Computer Vision and Machine Learning, including convolutional neural network, neural network, and deep learning models. 
-
-When an astronomical image is uploaded, the system preprocesses it and then looks for features of known constellations and objects, which are then compared with the built-in star map database to determine the orientation and scale of the image. Finally, it generates a metadata file containing information about the position, brightness, and so on of each object in the image. 
  
 In addition, the project also provides a convenient API interface that allows developers to integrate into their own applications or services, achieving the ability to automate the processing of large amounts of astronomical images. 
 
